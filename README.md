@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently brushing up on DSA by developing an [A* Pathfinding Algorithm Simulation](https://github.com/tiwari-aryan/A-Star-Pathfinding-Algorithm)
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **React** and **TypeScript**
 
 - 📝 I regularly write articles on [https://medium.com/@aryan.tiwari0204](https://medium.com/@aryan.tiwari0204)
 
