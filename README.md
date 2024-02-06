@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Tiwari</h1>
 <h3 align="center">An aspiring software engineer who is interested in making change 🌎</h3>
 
-- 🔭 I’m currently working on [brushing up on DSA by developing an A* Pathfinding Algorithm Simulation](https://github.com/tiwari-aryan/A-Star-Pathfinding-Algorithm)
+- 🔭 I’m currently brushing up on DSA by developing an [A* Pathfinding Algorithm Simulation](https://github.com/tiwari-aryan/A-Star-Pathfinding-Algorithm)
 
 - 🌱 I’m currently learning **React, TypeScript**
 
