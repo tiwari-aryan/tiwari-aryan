@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aryan.tiwari0204](https://medium.com/@aryan.tiwari0204)
 
-- 📫 How to reach me **aryan.tiwari0204@gmail.com**
+- 📫 You can contact me at **aryan.tiwari0204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
