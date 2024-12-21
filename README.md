@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Tiwari</h1>
 <h3 align="center">An aspiring software engineer who is interested in making change 🌎</h3>
 
-- 🔭 I’m currently brushing up on DSA by developing an [A* Pathfinding Algorithm Simulation](https://github.com/tiwari-aryan/A-Star-Pathfinding-Algorithm)
+- 🔭 I’m currently learning Rust by developing a [Console-Based Text Editor](https://github.com/tiwari-aryan/Text-Editor)
 
-- 🌱 I’m currently learning **React** and **TypeScript**
+- 🌱 I’m currently learning **Rust** and **React**
 
 - 📝 I regularly write articles on [https://medium.com/@aryan.tiwari0204](https://medium.com/@aryan.tiwari0204)
 
